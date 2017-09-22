@@ -1,0 +1,10 @@
+D:\svche\ControlDB\ControlDB\bin\Debug\ControlDB.exe.config
+D:\svche\ControlDB\ControlDB\bin\Debug\ControlDB.exe
+D:\svche\ControlDB\ControlDB\bin\Debug\ControlDB.pdb
+D:\svche\ControlDB\ControlDB\bin\Debug\EntityFramework.dll
+D:\svche\ControlDB\ControlDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\svche\ControlDB\ControlDB\bin\Debug\EntityFramework.xml
+D:\svche\ControlDB\ControlDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\svche\ControlDB\ControlDB\obj\Debug\ControlDB.csprojResolveAssemblyReference.cache
+D:\svche\ControlDB\ControlDB\obj\Debug\ControlDB.exe
+D:\svche\ControlDB\ControlDB\obj\Debug\ControlDB.pdb
